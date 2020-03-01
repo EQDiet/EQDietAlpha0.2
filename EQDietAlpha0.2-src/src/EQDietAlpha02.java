@@ -1,7 +1,9 @@
 /**
  * Healthy eating app test created by Daniel Lopez Tena.
+ * (C) 2020, Daniel Lopez Tena.
  * Website: https://eqdiet.weebly.com
  * This program comes with NO WARANTY. It's safe but use it at your own risk.
+ * Read the full license in this link: https://bit.ly/eqdietlicense
  */
 
 import java.io.BufferedWriter;

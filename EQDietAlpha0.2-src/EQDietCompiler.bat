@@ -1,6 +1,6 @@
 @echo off
 echo EQDiet Alpha 0.20 Compiler for Windows.
-echo Developed in 2020 by Daniel Lopez Tena.
+echo (C) 2020, Daniel Lopez Tena.
 echo.
 
 :choice

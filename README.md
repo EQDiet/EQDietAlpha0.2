@@ -5,7 +5,7 @@ Welcome to EQDiet Alpha version 0.2. Hope you enjoy using our app! You can visit
 
 To know more about this release, visit [this link](https://eqdiet.weebly.com/release-notes)
 
-![Image of EQDiet](https://lh6.googleusercontent.com/bqiw4dCTddiOLClblZnxOgBssj3oIpJgwdYpOim8uN8c-jO2l0vwFuor8uqTpSlsVxLO_aRLgMWqcjudv-jj=w1366-h657)
+![Image of EQDiet](https://eqdiet.weebly.com/uploads/1/2/2/7/122786941/eqdiet_orig.png)
 
 ## Building source code:
 
@@ -17,7 +17,7 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 
 #### Optional requirements:
 
-- EQDiet Icon. Click [here](https://eqdiet.weebly.com/uploads/1/2/2/7/122786941/eqdiet_orig.png) to get it.
+- EQDiet Icon. Click [here](https://lh6.googleusercontent.com/bqiw4dCTddiOLClblZnxOgBssj3oIpJgwdYpOim8uN8c-jO2l0vwFuor8uqTpSlsVxLO_aRLgMWqcjudv-jj=w1366-h657) to get it.
 - Launch4j to convert jar file to exe file. Click [here](https://sourceforge.net/projects/launch4j/) to get it.
 
 ### Procedure:

@@ -17,7 +17,7 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 
 #### Optional requirements:
 
-- EQDiet Icon. Click [here](https://lh6.googleusercontent.com/bqiw4dCTddiOLClblZnxOgBssj3oIpJgwdYpOim8uN8c-jO2l0vwFuor8uqTpSlsVxLO_aRLgMWqcjudv-jj=w1366-h657) to get it.
+- EQDiet Icon. Click [here](https://drive.google.com/uc?export=download&id=1FTz1a2WWUdH8tjqEx7AUVdR1lHHBMxJK) to get it.
 - Launch4j to convert jar file to exe file. Click [here](https://sourceforge.net/projects/launch4j/) to get it.
 
 ### Procedure:

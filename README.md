@@ -37,7 +37,7 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 13. Choose "Icon" option to the EQDiet icon you just have downloaded.
 14. Go to JRE tab and write "1.8" in the "Min JRE version" option.
 15. Click "Save configuration" icon.
-16. It will write and XML file. Choose the name you want. When you compile the EXE file, you can delete it.
+16. It will write an XML file. Choose the name you want. When you compile the EXE file, you can delete it.
 17. Click "Build wrapper" icon.
 18. Done! Check the EXE output folder you have selected and now you will have an official copy of EQDiet Alpha 0.2!
 

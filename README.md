@@ -41,4 +41,4 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 17. Click "Build wrapper" icon.
 18. Done! Check the EXE output folder you have selected and now you will have an official copy of EQDiet Alpha 0.2!
 
-### Note this project is protected by the MIT. You can read it [here](https://github.com/EQDiet/EQDietAlpha0.2/blob/master/LICENSE).
+### Note this project is protected by the MIT license. You can read it [here](https://github.com/EQDiet/EQDietAlpha0.2/blob/master/LICENSE).

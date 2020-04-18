@@ -1,5 +1,7 @@
-# EQDietAlpha0.2
+# EQDiet Alpha 0.2
 EQDiet: Free Open-source Healthy Diet App
+
+### EQDiet Alpha 0.2's support has finished the 04/19/2020. We suggest you to change to a newer version of the app.
 
 Welcome to EQDiet Alpha version 0.2. Hope you enjoy using our app! You can visit our website [here](https://eqdiet.weebly.com)
 

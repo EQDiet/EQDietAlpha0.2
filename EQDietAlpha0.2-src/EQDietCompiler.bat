@@ -38,7 +38,6 @@ echo Cleaning files...
 echo.
 del /s /f /q Build
 rd /s /q Build >NUL 2>NUL
-md Build >NUL 2>NUL
 echo.
 echo Done!
 exit /b

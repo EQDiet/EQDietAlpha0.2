@@ -2,7 +2,7 @@
 EQDiet: Free Open-source Healthy Diet App
 
 ---
-### EQDiet Alpha 0.2's support has finished the 04/19/2020. We suggest you to change to a newer version of the app.
+### Warning: EQDiet Alpha 0.2's support has finished the 04/19/2020. We suggest you to change to a newer version of the app.**
 
 ---
 Welcome to EQDiet Alpha version 0.2. Hope you enjoy using our app! You can visit our website [here](https://eqdiet.weebly.com)
@@ -11,20 +11,20 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 
 ![Image of EQDiet](https://eqdiet.weebly.com/uploads/1/2/2/7/122786941/eqdiet_orig.png)
 
-## Building source code:
+## Building source code
 
-### Requirements:
+### Requirements
 
-#### Necessary requirements:
+#### Necessary requirements
 
 - Latest Java SE Development Kit (JDK). Click [here](https://lumi.gq/jdk) if you don't have it.
 
-#### Optional requirements:
+#### Optional requirements
 
 - EQDiet Icon. Click [here](https://drive.google.com/uc?export=download&id=1FTz1a2WWUdH8tjqEx7AUVdR1lHHBMxJK) to get it.
 - Launch4j to convert jar file to exe file. Click [here](https://eqdiet.weebly.com/uploads/1/2/2/7/122786941/launch4j-3.12-win32.exe) to get it.
 
-### Procedure:
+### Procedure
 
 1. Set Java JDK bin folder to PATH. View [this video](https://www.youtube.com/watch?v=vhBNV8no4CI) if you don't know how to do it.
 2. Download source code from [this link](https://github.com/EQDiet/EQDietAlpha0.2/archive/master.zip) or by clicking "clone or download" button.
@@ -45,4 +45,4 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 17. Click "Build wrapper" icon.
 18. Done! Check the EXE output folder you have selected and now you will have an official copy of EQDiet Alpha 0.2!
 
-### Note this project is protected by the MIT license. You can read it [here](https://github.com/EQDiet/EQDietAlpha0.2/blob/master/LICENSE).
+### This project is protected by the MIT license. You can read it [here](https://github.com/EQDiet/EQDietAlpha0.2/blob/master/LICENSE).

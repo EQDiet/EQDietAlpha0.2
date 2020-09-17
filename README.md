@@ -2,7 +2,7 @@
 EQDiet: Free Open-source Healthy Diet App
 
 ---
-### Warning: EQDiet Alpha 0.2's support has finished the 04/19/2020. We suggest you to change to a newer version of the app.
+### Warning: EQDiet Alpha 0.2's support has finished the 04/19/2020. At 09/17/2020, this repository has been archived. We suggest you to change to a newer version of the app.
 
 ---
 Welcome to EQDiet Alpha version 0.2. Hope you enjoy using our app! You can visit our website [here](https://eqdiet.weebly.com)
@@ -45,4 +45,4 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 17. Click "Build wrapper" icon.
 18. Done! Check the EXE output folder you have selected and now you will have an official copy of EQDiet Alpha 0.2!
 
-### This project is protected by the MIT license. You can read it [here](https://github.com/EQDiet/EQDietAlpha0.2/blob/master/LICENSE).
+### This project is licensed under the MIT license. You can read it [here](https://github.com/EQDiet/EQDietAlpha0.2/blob/master/LICENSE).
